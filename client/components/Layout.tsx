@@ -36,18 +36,18 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           {/* Top Bar */}
           <div className="flex justify-between items-center h-16 gap-4">
             {/* Logo */}
-              
-            <Link to="/" className="flex items-center gap-3 font-bold text-2xl flex-shrink-0">
-  <img 
-    src="/logo.png" 
-    alt="BricksKart Logo" 
-    className="h-[70px] w-auto object-contain"
-  />
 
-  <span className="text-white tracking-wide">
-    BricksKart
-  </span>
-</Link>
+            <Link to="/" className="flex items-center gap-3 font-bold text-2xl flex-shrink-0">
+              <img
+                src="/logo.png"
+                alt="BricksKart Logo"
+                className="h-[70px] w-auto object-contain"
+              />
+
+              <span className="text-white tracking-wide">
+                BricksKart
+              </span>
+            </Link>
 
 
             {/* Search Bar - Hidden on mobile */}
@@ -196,11 +196,11 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="text-white font-bold mb-4 text-lg"><img 
-    src="/logo.png" 
-    alt="BricksKart Logo" 
-    className="h-[70px] w-auto object-contain"
-  /></h3>
+              <h3 className="text-white font-bold mb-4 text-lg"><img
+                src="/logo.png"
+                alt="BricksKart Logo"
+                className="h-[70px] w-auto object-contain"
+              /></h3>
               <p className="text-sm">Your trusted partner for premium construction materials.</p>
             </div>
             <div>
@@ -223,7 +223,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               <h4 className="text-white font-bold mb-4">Support</h4>
               <ul className="space-y-2 text-sm">
                 <li><a href="tel:+919876543210" className="hover:text-pink-400 transition-colors">+91 98765 43210</a></li>
-                <li><a href="mailto:info@meesho.com" className="hover:text-pink-400 transition-colors">info@meesho.com</a></li>
+                <li><a href="mailto:info@Brickskart.com" className="hover:text-pink-400 transition-colors">info@Brickskart.com</a></li>
               </ul>
             </div>
           </div>
