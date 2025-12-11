@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "UltraTech Cement 50kg",
+    "category": "Cement",
+    "price": 330,
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 100,
+    "description": "Premium quality cement for strong construction. Perfect for all types of construction work."
+  },
+  {
+    "id": 2,
+    "name": "Tata Tiscon TMT Bar 12mm",
+    "category": "Steel Rods",
+    "price": 580,
+    "image": "https://images.unsplash.com/photo-1565182999555-f2515db78e00?w=300&h=300&fit=crop",
+    "rating": 4.8,
+    "stock": 50,
+    "description": "High-strength TMT steel rod for building structures. Corrosion resistant."
+  },
+  {
+    "id": 3,
+    "name": "Red Clay Bricks (500 pcs)",
+    "category": "Bricks",
+    "price": 2200,
+    "image": "https://images.unsplash.com/photo-1581092162537-8a0e7f29bdb2?w=300&h=300&fit=crop",
+    "rating": 4.3,
+    "stock": 75,
+    "description": "Premium red clay bricks for walls. Durable and weather-resistant."
+  },
+  {
+    "id": 4,
+    "name": "River Sand (1 Cubic Meter)",
+    "category": "Sand",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1581092165854-40e3e5ce4a51?w=300&h=300&fit=crop",
+    "rating": 4.2,
+    "stock": 200,
+    "description": "High-quality river sand for construction and plastering work."
+  },
+  {
+    "id": 5,
+    "name": "Ceramic Floor Tiles 60x60cm",
+    "category": "Tiles & Marble",
+    "price": 280,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.6,
+    "stock": 120,
+    "description": "Premium ceramic tiles with high gloss finish. Water-resistant and durable."
+  },
+  {
+    "id": 6,
+    "name": "PVC Pipes 50mm (10 meters)",
+    "category": "Pipes & Plumbing",
+    "price": 450,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.4,
+    "stock": 80,
+    "description": "Durable PVC pipes for water and drainage systems. Easy installation."
+  },
+  {
+    "id": 7,
+    "name": "Ace Interior Paint 10L",
+    "category": "Paints",
+    "price": 920,
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 60,
+    "description": "Premium quality interior paint. 5-year warranty against fading."
+  },
+  {
+    "id": 8,
+    "name": "Power Drill Kit 13mm",
+    "category": "Construction Tools",
+    "price": 3200,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.7,
+    "stock": 25,
+    "description": "Professional power drill with 100-piece drill bit set. Variable speed."
+  },
+  {
+    "id": 9,
+    "name": "Safety Helmet (Orange)",
+    "category": "Safety Gear",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1581092163392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.4,
+    "stock": 150,
+    "description": "Impact-resistant safety helmet. Meets IS 2925 standards."
+  },
+  {
+    "id": 10,
+    "name": "Switch Board 4-Way",
+    "category": "Electrical Items",
+    "price": 420,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.3,
+    "stock": 90,
+    "description": "Premium electrical switch board. Fire-resistant material."
+  },
+  {
+    "id": 11,
+    "name": "ACC Gold Cement 50kg",
+    "category": "Cement",
+    "price": 345,
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=300&h=300&fit=crop",
+    "rating": 4.6,
+    "stock": 110,
+    "description": "ACC premium cement with superior binding strength. Best for structural work."
+  },
+  {
+    "id": 12,
+    "name": "JSW TMT Bar 10mm",
+    "category": "Steel Rods",
+    "price": 520,
+    "image": "https://images.unsplash.com/photo-1565182999555-f2515db78e00?w=300&h=300&fit=crop",
+    "rating": 4.7,
+    "stock": 120,
+    "description": "High-quality TMT rods with excellent ductility. Industry standard."
+  },
+  {
+    "id": 13,
+    "name": "Yellow Clay Bricks (500 pcs)",
+    "category": "Bricks",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1581092162537-8a0e7f29bdb2?w=300&h=300&fit=crop",
+    "rating": 4.2,
+    "stock": 60,
+    "description": "High-quality yellow clay bricks. Excellent for architectural work."
+  },
+  {
+    "id": 14,
+    "name": "White Cement 50kg",
+    "category": "Cement",
+    "price": 580,
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=300&h=300&fit=crop",
+    "rating": 4.8,
+    "stock": 40,
+    "description": "Premium white cement for decorative finishes and tile grouting."
+  },
+  {
+    "id": 15,
+    "name": "Marble Tiles 30x30cm",
+    "category": "Tiles & Marble",
+    "price": 420,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.7,
+    "stock": 80,
+    "description": "Elegant marble tiles for premium interiors. Scratch-resistant."
+  },
+  {
+    "id": 16,
+    "name": "PVC Pipe 32mm (10m)",
+    "category": "Pipes & Plumbing",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 100,
+    "description": "Standard PVC pipes for residential plumbing. Durable and reliable."
+  },
+  {
+    "id": 17,
+    "name": "Berger Exterior Paint 10L",
+    "category": "Paints",
+    "price": 1050,
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=300&h=300&fit=crop",
+    "rating": 4.6,
+    "stock": 50,
+    "description": "Premium exterior paint. Weather-resistant for 7 years."
+  },
+  {
+    "id": 18,
+    "name": "Impact Drill 20mm",
+    "category": "Construction Tools",
+    "price": 4500,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.8,
+    "stock": 20,
+    "description": "Heavy-duty impact drill for concrete and masonry work."
+  },
+  {
+    "id": 19,
+    "name": "Safety Gloves (Pair)",
+    "category": "Safety Gear",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1581092163392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.3,
+    "stock": 200,
+    "description": "Protective safety gloves for construction work. Comfortable fit."
+  },
+  {
+    "id": 20,
+    "name": "Copper Wire 2.5 sqmm (90m)",
+    "category": "Electrical Items",
+    "price": 850,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.4,
+    "stock": 70,
+    "description": "High-quality copper wire for electrical installations. Pure copper."
+  },
+  {
+    "id": 21,
+    "name": "JK Cement 50kg",
+    "category": "Cement",
+    "price": 340,
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 95,
+    "description": "JK premium cement. Excellent for all construction needs."
+  },
+  {
+    "id": 22,
+    "name": "Tata Tiscon 16mm Rod",
+    "category": "Steel Rods",
+    "price": 680,
+    "image": "https://images.unsplash.com/photo-1565182999555-f2515db78e00?w=300&h=300&fit=crop",
+    "rating": 4.8,
+    "stock": 40,
+    "description": "Heavy-duty TMT rod for commercial structures."
+  },
+  {
+    "id": 23,
+    "name": "Concrete Mix Cement",
+    "category": "Cement",
+    "price": 290,
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=300&h=300&fit=crop",
+    "rating": 4.4,
+    "stock": 80,
+    "description": "Ready-mix concrete cement. Easy to use."
+  },
+  {
+    "id": 24,
+    "name": "Porcelain Tiles 80x80cm",
+    "category": "Tiles & Marble",
+    "price": 520,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.6,
+    "stock": 100,
+    "description": "Premium porcelain tiles. Stain-resistant and durable."
+  },
+  {
+    "id": 25,
+    "name": "CPVC Pipe 20mm (10m)",
+    "category": "Pipes & Plumbing",
+    "price": 380,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 75,
+    "description": "CPVC pipes for hot water supply. Heat resistant."
+  },
+  {
+    "id": 26,
+    "name": "Asian Paints Apex 10L",
+    "category": "Paints",
+    "price": 980,
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=300&h=300&fit=crop",
+    "rating": 4.7,
+    "stock": 55,
+    "description": "Asian Paints premium interior paint. Odor-free."
+  },
+  {
+    "id": 27,
+    "name": "Rotary Hammer Drill",
+    "category": "Construction Tools",
+    "price": 5200,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Professional rotary hammer for heavy-duty drilling."
+  },
+  {
+    "id": 28,
+    "name": "Safety Harness Full Body",
+    "category": "Safety Gear",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1581092163392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 30,
+    "description": "Full-body safety harness for high-altitude work. Certified."
+  },
+  {
+    "id": 29,
+    "name": "Circuit Breaker 32A",
+    "category": "Electrical Items",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.4,
+    "stock": 110,
+    "description": "High-quality circuit breaker. Trip-free reliable operation."
+  },
+  {
+    "id": 30,
+    "name": "Waterproofing Solution 20L",
+    "category": "Paints",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=300&h=300&fit=crop",
+    "rating": 4.7,
+    "stock": 35,
+    "description": "Advanced waterproofing solution for all surfaces. 10-year protection."
+  },
+  {
+    "id": 31,
+    "name": "Hammer Drill Bits Set",
+    "category": "Construction Tools",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1581092162392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 80,
+    "description": "Professional hammer drill bits. Tungsten carbide tipped."
+  },
+  {
+    "id": 32,
+    "name": "Safety Shoes (Steel Toe)",
+    "category": "Safety Gear",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1581092163392-8c6c27eebd26?w=300&h=300&fit=crop",
+    "rating": 4.6,
+    "stock": 45,
+    "description": "Steel toe safety shoes. Comfortable and protective."
+  },
+  {
+    "id": 33,
+    "name": "Electrical Cable 1.5 sqmm",
+    "category": "Electrical Items",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1581092162562-40038f4c0e81?w=300&h=300&fit=crop",
+    "rating": 4.5,
+    "stock": 90,
+    "description": "Standard electrical cable. Fire-resistant insulation."
+  }
+]
