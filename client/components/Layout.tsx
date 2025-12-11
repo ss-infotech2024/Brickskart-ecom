@@ -36,11 +36,19 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           {/* Top Bar */}
           <div className="flex justify-between items-center h-16 gap-4">
             {/* Logo */}
-            <Link to="/" className="flex items-center gap-2 font-bold text-xl flex-shrink-0">
-              <div className="bg-[#B22222] text-white px-4 py-1 rounded-lg text-lg font-bold flex items-center gap-1">
-                🏗️ BricksKart
-              </div>
-            </Link>
+              
+            <Link to="/" className="flex items-center gap-3 font-bold text-2xl flex-shrink-0">
+  <img 
+    src="/logo.png" 
+    alt="BricksKart Logo" 
+    className="h-[70px] w-auto object-contain"
+  />
+
+  <span className="text-white tracking-wide">
+    BricksKart
+  </span>
+</Link>
+
 
             {/* Search Bar - Hidden on mobile */}
             <div className="hidden md:flex flex-1 max-w-xs mx-2">
@@ -188,7 +196,11 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="text-white font-bold mb-4 text-lg">🏗️ BricksKart</h3>
+              <h3 className="text-white font-bold mb-4 text-lg"><img 
+    src="/logo.png" 
+    alt="BricksKart Logo" 
+    className="h-[70px] w-auto object-contain"
+  /></h3>
               <p className="text-sm">Your trusted partner for premium construction materials.</p>
             </div>
             <div>
